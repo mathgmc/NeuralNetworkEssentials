@@ -10,8 +10,16 @@ This repository contains Jupyter notebooks that are part of my personal study of
     - Explains their importance in introducing non-linearity to neural networks.
 - **03_multi_layer_network.ipynb**
     - Introduction to building multi-layer neural networks.
-    - Illustrates how to combine layers and activation functions for complex architectures.
-    - Explore `torchsummary` lib, that provides information about the number of parameters and the size of the output of each layer.
+- **04_loss_functions.ipynb**
+    - Introduction to loss functions and some tests with diferents functions
+- **05_model_optimization.ipynb**
+    - Introduction to optimization
+    - Uses Pytorch dataset of wines to train a model
+- **06_loading_image_and_training.ipynb**
+    - Train a image collection of handwriting to recognize alphanumeric characteres
+- **07_predict_bike_rental.ipynb**
+    - Loads a external dataset of bike rentals
+    - Train a model to predict the number of bike rentals on a given day
 
 ## Requirements
 - Python 3.8 or higher
